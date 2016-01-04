@@ -1,5 +1,5 @@
 version: 1.0.{build}
-os: Previous Visual Studio 2015
+os: test
 clone_folder: C:\projects\callme
 test: off
 
